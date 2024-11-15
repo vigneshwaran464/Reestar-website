@@ -1,0 +1,149 @@
+.section-one{
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+.section-one__home{
+    color: gray;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.container{
+    text-align: center;
+
+}
+.section-two{
+    
+    display: inline-block;
+    border: 2px solid black;
+    padding-top: 10px;
+    vertical-align: top;
+}
+.section-two__img{
+    
+    height: 380px;
+    width: 180px;
+    
+}
+.section-two__title{
+    text-align: center;
+    font-size: small;
+}
+.section-two__desc{
+    text-align: center;
+    font-size: small;
+    
+}
+.section-two__button{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding-top: 10px;
+}
+
+.section-three{
+    padding-top: 10px;
+    display: inline-block;
+    border: 2px solid black;
+    
+}
+.section-three__img{
+    height: 380px;
+    width: 180px;
+    padding-left: 0px;
+    
+}
+.section-three__title{
+    text-align: center;
+    font-size: small;
+}
+.section-three__desc{
+    text-align: center;
+    font-size: small;
+
+}
+.section-three__button{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding-top: 10px;
+}
+.section-four{
+    padding-top: 10px;
+    display: inline-block;
+    border: 2px solid black;
+}
+.section-four__img{
+    height: 380px;
+    width: 192px;
+    
+}
+.section-four__title{
+    text-align: center;
+    font-size: small;
+}
+.section-four__desc{
+    text-align: center;
+    font-size: small;
+    padding-left: 10px;
+
+}
+.section-four__button{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding-top: 10px;
+}
+.section-five{
+    padding-top: 10px;
+    display: inline-block;
+    border: 2px solid black;
+}
+.section-five__img{
+    height: 380px;
+    width: 180px;
+    
+    
+}
+.section-five__title{
+    text-align: center;
+    font-size: small;
+}
+.section-five__desc{
+    text-align: center;
+    font-size: small;
+    
+}
+.section-five__button{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding-top: 10px;
+}
+.section-six{
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.section-six__table{
+    display: inline-block;
+    text-align: center;
+
+}
+.section-six__button{
+    background-color: rgb(236, 252, 17);
+    display: block;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    color: white;
+    border: black solid 1px;
+    margin-left: 500px;
+}
+ 
